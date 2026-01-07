@@ -13,6 +13,5 @@ Check My Repositories and projects
 ## Stats
 <img border-radius="40px" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justdevnishant&show_icons=true&theme=light&include_all_commits=true&count_private=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justdevnishant&langs_count=8)
-
 ## See you later, SAyoNAra🫡
+
